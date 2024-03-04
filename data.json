@@ -1,0 +1,100 @@
+{
+    "_links": null,
+    "additional_images": [],
+    "aisle": null,
+    "alcohol_retailer_id": null,
+    "availability": {
+        "source": "DEF/ETL",
+        "stock_level": 0
+    },
+    "availability_message": null,
+    "availability_status": true,
+    "average_uom": "lb",
+    "average_weight": "0.4",
+    "base_price": 1.0,
+    "base_quantity": 1,
+    "brand_name": null,
+    "categories": [
+        {
+            "id": "1",
+            "name": "Produce"
+        },
+        {
+            "id": "2",
+            "name": "Fruits"
+        },
+        {
+            "id": "3",
+            "name": "Apples"
+        }
+    ],
+    "display_uom": "ea",
+    "ext_data": {},
+    "ext_id": "00000000032830",
+    "fulfillment_inventory_area_id": "8370",
+    "fulfillment_retailer_id": "279",
+    "fulfillment_retailer_store_id": "2",
+    "fulfillment_store_number": "17650",
+    "fulfillment_types": [
+        "delivery",
+        "instore",
+        "pickup"
+    ],
+    "href": "/store_products/6999",
+    "ic_item_id": "172761400",
+    "ic_product_id": "16614400",
+    "id": "6999",
+    "images": {
+        "tile": {
+            "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_76a8d037-65c8-43ab-bc49-e92e67363652.png",
+            "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_76a8d037-65c8-43ab-bc49-e92e67363652.png",
+            "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_76a8d037-65c8-43ab-bc49-e92e67363652.png"
+        }
+    },
+    "is_alcoholic": false,
+    "loyalty_end_date": null,
+    "loyalty_price": null,
+    "loyalty_quantity": null,
+    "message_code": null,
+    "modified": "Tue, 06 Feb 2024 03:02:56 GMT",
+    "name": "Honeycrisp Apple",
+    "offers": null,
+    "order_by_weight": false,
+    "ordering_parameters": {
+        "increment": 1,
+        "max": 100,
+        "min": 1
+    },
+    "price_alert": null,
+    "product_config": null,
+    "product_rating": {
+        "average_rating": 3.6,
+        "user_count": 5
+    },
+    "product_type": "product",
+    "promo_tag": null,
+    "promo_tag_percentage": null,
+    "reco_rating": 3.0,
+    "sale_end_date": null,
+    "sale_price": null,
+    "sale_quantity": null,
+    "search_result": {
+        "result_set": 0,
+        "score": null
+    },
+    "size_string": null,
+    "snrid": "911667ed-45e7-4548-b232-52a8686a3986",
+    "source": null,
+    "source_id": null,
+    "sponsored": false,
+    "status": true,
+    "tags": [
+        "none"
+    ],
+    "uom_price": {
+        "price": 2.49,
+        "uom": "lb"
+    },
+    "usa_snap_eligible": true,
+    "user_rating": null
+}
